@@ -1,0 +1,6 @@
+gcloud services enable \
+run.googleapis.com \
+cloudbuild.googleapis.com \
+artifactregistry.googleapis.com \
+firestore.googleapis.com \
+apigateway.googleapis.com
